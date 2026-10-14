@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 272,
-      "end_time": 281,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Example of content being pushed by the algorithm that increases anxiety levels"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "7bc54785-6696-4135-a26a-eccdffbe58e6"
-    },
-    {
       "start_time": 282,
       "end_time": 299,
       "annotation": [
