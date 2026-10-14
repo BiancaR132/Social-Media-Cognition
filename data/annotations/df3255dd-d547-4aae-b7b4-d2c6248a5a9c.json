@@ -1,22 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 725,
-      "end_time": 765,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Conclusion on algorithmic influence: Final synthesis on how pervasive short-form algorithms hijack human attention and memory."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "0186dd49-adfb-4820-9964-19fff396ee9b"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "0a694c4c-c08d-49ab-9c1f-6fd3e480dc1c",
   "source_id": "a1abd5d9-6b0b-42da-9e23-94da8edba468"
