@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 96,
-      "end_time": 125,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Social comparison is  demonstrated through likes/Engagment and can lead to anxiety "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "44038c2f-163f-4904-b55f-088c318ee862"
-    },
-    {
       "start_time": 126,
       "end_time": 155,
       "annotation": [
