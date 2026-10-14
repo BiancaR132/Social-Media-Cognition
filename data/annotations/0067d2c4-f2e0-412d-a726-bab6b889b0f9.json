@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 226,
-      "end_time": 250,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Social media can be addictive as it releases dopamine - comparison to effects of drugs and alcohol"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "0d4c245d-b9f4-4701-8e41-02ce22aa40f9"
-    },
-    {
       "start_time": 251,
       "end_time": 260,
       "annotation": [
