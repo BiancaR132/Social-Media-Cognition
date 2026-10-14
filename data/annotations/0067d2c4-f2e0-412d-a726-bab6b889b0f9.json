@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 45,
-      "end_time": 79,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Explaining whoDr  Nina Vasan is and the upcoming points"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "9cdf2bd5-f3a9-4615-b938-d6a3d3b43fae"
-    },
-    {
       "start_time": 96,
       "end_time": 125,
       "annotation": [
