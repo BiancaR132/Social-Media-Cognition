@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 330,
-      "end_time": 370,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Depressive content deluge: Rapid succession of emotional triggers causes cognitive friction and shallow processing."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "dd1249f5-8c3c-4dd6-8695-0cdc248c6698"
-    },
-    {
       "start_time": 525,
       "end_time": 570,
       "annotation": [
