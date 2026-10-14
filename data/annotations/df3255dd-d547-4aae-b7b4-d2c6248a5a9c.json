@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 125,
-      "end_time": 165,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Aggressive scene pacing: Continuous novel stimuli flood working memory, causing sensory overload."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "840fedb5-84c1-4512-a60c-389be1101cb5"
-    },
-    {
       "start_time": 190,
       "end_time": 255,
       "annotation": [
