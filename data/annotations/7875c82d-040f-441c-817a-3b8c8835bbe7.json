@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 150,
-      "end_time": 174,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "After 4 weeks the results can be seen with the people who did not use their phones 30 minutes before bed reducing the time it takes them to fall asleep by 12 minutes. The duration of their sleep increased by 18 minutes. Measures of sleep quality also were seen to have improved."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "5a99d97a-92ba-44c4-ac3e-34176ee0671d"
-    },
-    {
       "start_time": 175,
       "end_time": 195,
       "annotation": [
