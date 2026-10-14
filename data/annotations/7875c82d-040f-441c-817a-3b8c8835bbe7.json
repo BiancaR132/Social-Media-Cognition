@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 175,
-      "end_time": 195,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Discussion of Pre-sleep arousal and how the sensations experienced by phone usage right before bed lead to people finding it harder to fall asleep. This reduced when the phone usage reduced."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "f2de016a-3666-44a9-aac4-8f3d235e6466"
-    },
-    {
       "start_time": 196,
       "end_time": 239,
       "annotation": [
