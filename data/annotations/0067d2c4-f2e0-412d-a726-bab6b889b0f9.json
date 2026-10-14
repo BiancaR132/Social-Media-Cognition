@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 456,
-      "end_time": 485,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Advice for problematic social media consumption"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "b2ff6e87-eb23-495c-a55a-77a1822eecb3"
-    },
-    {
       "start_time": 486,
       "end_time": 493,
       "annotation": [
