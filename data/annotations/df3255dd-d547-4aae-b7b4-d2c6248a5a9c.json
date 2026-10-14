@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 602,
-      "end_time": 640,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Engagement mechanics vs. critical thinking: High-velocity delivery disables deep semantic reflection."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "2e5c68f8-8073-44db-9cb3-5a3a7b70667f"
-    },
-    {
       "start_time": 725,
       "end_time": 765,
       "annotation": [
