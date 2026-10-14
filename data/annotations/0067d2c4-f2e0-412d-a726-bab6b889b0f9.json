@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 126,
-      "end_time": 155,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Content of social media triggers anxiety, promotes unrealistic beauty standards and convince you that your life is not good enough in comparison"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "907ef30f-3bfd-4062-8aeb-aec8bbfbaa3d"
-    },
-    {
       "start_time": 155,
       "end_time": 182,
       "annotation": [
