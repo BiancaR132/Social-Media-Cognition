@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 251,
-      "end_time": 260,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Algorithim intentionally keeps you engaged by feeding you content based on your interactions"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "b2a86124-f630-4844-b1fa-da505f2c53a5"
-    },
-    {
       "start_time": 272,
       "end_time": 281,
       "annotation": [
