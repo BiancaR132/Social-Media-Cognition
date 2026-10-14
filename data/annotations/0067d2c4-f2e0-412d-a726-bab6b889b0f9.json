@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 282,
-      "end_time": 299,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Harder to stop consumption due to instantanious nature of social media"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "3d667a06-56ef-4b9d-b9d7-7dd06780a2a4"
-    },
-    {
       "start_time": 300,
       "end_time": 347,
       "annotation": [
