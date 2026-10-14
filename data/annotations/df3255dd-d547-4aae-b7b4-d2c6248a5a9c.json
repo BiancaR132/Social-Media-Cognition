@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 40,
-      "end_time": 72,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Rapid visual transitions and dynamic text overlays: Average Shot Length < 2s prevents deep cognitive rehearsal."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "d5b57f6f-35a4-4137-9f7f-2db329af429d"
-    },
-    {
       "start_time": 75,
       "end_time": 115,
       "annotation": [
