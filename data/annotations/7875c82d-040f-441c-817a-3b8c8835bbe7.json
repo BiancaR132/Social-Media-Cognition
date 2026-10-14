@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 23,
-      "end_time": 42,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Discussing how the use of screens before bedtime has always been considered to have negative effects on the quality of your sleep "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "07cf0d0b-f1fe-44d9-b943-c6a835f36c83"
-    },
-    {
       "start_time": 43,
       "end_time": 88,
       "annotation": [
