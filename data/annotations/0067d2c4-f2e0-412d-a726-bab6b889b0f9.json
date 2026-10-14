@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 300,
-      "end_time": 347,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Algorithmic strategies to reduce your anxiety levels when consuming social media "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "6d41e475-460c-4c6d-a31d-6f0287ebcdb3"
-    },
-    {
       "start_time": 355,
       "end_time": 405,
       "annotation": [
