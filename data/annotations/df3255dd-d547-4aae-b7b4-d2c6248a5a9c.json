@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 525,
-      "end_time": 570,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Narrowing recommendations: Algorithm narrows focus to extreme content, reinforcing transactive memory reliance."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "798274df-70c9-46e3-b7b2-5b0da0b467ca"
-    },
-    {
       "start_time": 602,
       "end_time": 640,
       "annotation": [
