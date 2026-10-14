@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 183,
-      "end_time": 221,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Loneliness can be combatted with social media - however, those connections are not always authentic/meaningful"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "cb75b858-5f4d-472f-9f21-f72e53f2529b"
-    },
-    {
       "start_time": 226,
       "end_time": 250,
       "annotation": [
