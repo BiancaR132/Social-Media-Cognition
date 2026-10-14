@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 410,
-      "end_time": 450,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Identifying signs that social media has become a problem in your life or a loved ones life "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "b20cf7e0-1641-437b-b4dc-5a4b497d4aa8"
-    },
-    {
       "start_time": 456,
       "end_time": 485,
       "annotation": [
