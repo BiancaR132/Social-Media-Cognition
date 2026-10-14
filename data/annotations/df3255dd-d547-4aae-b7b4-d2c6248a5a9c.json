@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 190,
-      "end_time": 255,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Niche mapping visualization: Demonstrates algorithmic rabbit-holing based on implicit user vulnerabilities."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "e7ba5896-db50-42b0-bc95-24d0a21d9858"
-    },
-    {
       "start_time": 330,
       "end_time": 370,
       "annotation": [
