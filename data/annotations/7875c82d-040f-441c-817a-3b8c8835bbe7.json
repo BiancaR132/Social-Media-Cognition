@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 89,
-      "end_time": 149,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This discusses the 2020 study which was conducted to see what the effects of phone usage before bed are on: sleep wuality, mood, and memory. The experiment is then explained, with a sample size of 38 students they tested how no phone or social media usage 30 minutes before sleep and unlimited phone usage would compare and effect sleep. They them into two seperate groups to see what the effects would be. The people involved in this experiment were screened to make sure other factors would not skew the research such as: No medical conditions, no excess alcohol or caffiene, no sleep disorders, and no sleep medication."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "5eadeb3d-1f2d-480a-ae1a-b086d1838c77"
-    },
-    {
       "start_time": 150,
       "end_time": 174,
       "annotation": [
