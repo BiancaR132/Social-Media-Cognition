@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 240,
-      "end_time": 306,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Potential limitations of the study, small sample size. Discusses blue light effects on sleep."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "b3c77e5c-bd9b-464b-9dda-8dcd029d7526"
-    },
-    {
       "start_time": 307,
       "end_time": 351,
       "annotation": [
