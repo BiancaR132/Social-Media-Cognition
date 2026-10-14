@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 75,
-      "end_time": 115,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Bot experiment setup: Visualizing how micro-behaviors (watch time/lingering) act as primary algorithmic signals."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "90cd8623-8580-4f70-a779-a6fb18304717"
-    },
-    {
       "start_time": 125,
       "end_time": 165,
       "annotation": [
