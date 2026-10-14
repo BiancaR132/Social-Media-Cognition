@@ -1,22 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 486,
-      "end_time": 493,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Credits to all involved in the  film and the University"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "9fa9c5c1-fe73-4edc-8ef5-6da54a569f0e"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "0360e066-e798-4aa4-a024-3b5c758249d5",
   "source_id": "58e78c9a-5221-478a-a461-fbdf3a0efca2"
