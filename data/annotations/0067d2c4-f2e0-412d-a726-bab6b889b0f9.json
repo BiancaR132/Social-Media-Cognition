@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 155,
-      "end_time": 182,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "(Question and answer style filming) The benefits of social media, like social connection, can decrease anxiety"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "d5847ed3-359a-4058-a364-524ea529aa8c"
-    },
-    {
       "start_time": 183,
       "end_time": 221,
       "annotation": [
